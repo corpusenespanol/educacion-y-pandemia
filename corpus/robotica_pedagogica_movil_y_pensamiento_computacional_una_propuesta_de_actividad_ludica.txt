@@ -1,0 +1,76 @@
+Robótica pedagógica móvil y pensamiento computacional. Una propuesta de actividad lúdica
+			
+Enrique Ruiz Velasco Sánchez
+			
+Introducción
+			La robótica pedagógica móvil es una disciplina que permite concebir, diseñar y desarrollar robots educativos para que los estudiantes se inicien, desde muy jóvenes, en el estudio de las ciencias en general y de la tecnología en particular (Ruiz et al., 2014). Privilegia el aprendizaje inductivo y por descubrimiento guiado. Utiliza materiales de reciclaje y recuperación. No se puede usar sustrato tecnológico alguno implicado en la robótica pedagógica móvil, si no se estudia a cabalidad su funcionamiento.
+			El pensamiento computacional, según su autora Jeannette M. Wing (2006), “representa una actitud universalmente aplicable y un conjunto de habilidades para todos […] implica resolver problemas, diseñar sistemas y comprender el comportamiento humano, recurriendo a los conceptos fundamentales de la informática. El pensamiento computacional incluye una variedad de herramientas mentales que reflejan la amplitud de [este] campo”.
+			La programación informática es importante porque permite: “plantear y resolver problemas de manera diferente en modo abstracto; el conocimiento de lenguajes artificiales; tener una visión holista del problema a resolver; estructurar y resolver problemas de manera algorítmica; facilita resolver problemas utilizando un lenguaje artificial, restringido pero poderoso; modelar y formalizar problemas” (Velasco, 2014).
+			Como puede observarse, estas tres definiciones sustentarán el trabajo que se realizará en y desde la distancia, en posiciones remotas, por los distintos miembros de las familias interesadas en aprender estos tópicos. El pretexto es la construcción de un robot pedagógico móvil; los medios son la aplicación del pensamiento computacional y la concepción, desarrollo y puesta en marcha de un programa informático. En efecto, se diseñaron un conjunto de situaciones didácticas constructivistas, construccionistas y conectivistas (en el sentido piagetiano, papertiano y downiano) para que, en la medida en que las van resolviendo, desarrollen el conjunto de habilidades que les facilitarán alcanzar los objetivos tecnopedagógicos que sustentan estas acciones educativas.
+			La robótica pedagógica móvil permitirá detonar la capacidad de imaginería mental para concebir, diseñar y echar a andar (programar) un robot en y desde la distancia. Esto quiere decir que, una vez construido, algunos de los participantes podrán controlarlo desde distintas posiciones remotas; controlar y ceder el control, mediante la programación a través de un teléfono celular.
+			El pensamiento computacional facilitará a los usuarios analizar, organizar y relacionar las ideas, así como representarlas de manera lógica. Una vez hecha esta actividad, el público objetivo estará en posibilidad mental de crear, desarrollar y proponer distintas codificaciones de estas representaciones lógicas para echar a andar uno o distintos programas informáticos.
+			Como puede observarse, la robótica pedagógica móvil incluye e integra distintas dimensiones como son la mecánica, la eléctrica, la electrónica y la informática. Estas dimensiones, a su vez, son intervenidas de manera continua por el pensamiento computacional y, finalmente, por la programación informática, con el objetivo de formar un contenido único, que da cuenta de la solución de un problema informático, resolviéndolo mediante el pensamiento computacional y concretándolo a través de la robótica. Nótese cómo estas tres disciplinas están completamente imbricadas, son codependientes y no se pueden disociar, puesto que forman un todo continuo e inseparable. Aquí radica la innovación de esta propuesta tecnopedagógica. Son tres en una. Una para todas y todas para una.
+			Se desea entablar un tipo diferente de relaciones educativas entre los miembros de las familias, adaptándolas a sus actuales condiciones de vida y convivencia. Estamos conscientes de que no en todos los hogares existen las posibilidades de acceso a internet ni de salir a conseguir los materiales específicos para llevar a cabo todas las actividades programadas. Por ello, proponemos estas actividades sólo en el caso de que existan las condiciones materiales y de conectividad adecuadas, se esté en casa y no haya riesgo alguno de exponerse al contagio.
+			
+Propuesta de actividad lúdica
+			Se sugiere hacer llegar al público interesado el conjunto de situaciones didácticas para que niños, jóvenes y adultos, desde el interior de sus casas, las desarrollen, las ejerciten y, al mismo tiempo, aprenden los conocimientos básicos de la robótica pedagógica y de la programación informática vía el pensamiento computacional, y conformen comunidades de aprendizaje. Estas situaciones didácticas diseñadas exprofeso pueden ser desarrolladas en casa y los resultados podrán compartirse con familiares y amigos, para que puedan ser acompañados en la construcción de estos aprendizajes.  
+			En seguida, se muestran algunas de las situaciones didácticas que pueden realizarse y compartirse:
+			Curso de robótica. Este curso se encuentra disponible en la plataforma Coursera, es completamente gratuito y está dirigido para todo el público. Lo único que tienes que saber es leer y escribir, y por supuesto, estar interesado en aprender las bases de la robótica. Si decides tomarlo, podrás terminarlo muy rápido. Al final, además de aprender las bases de la robótica, habrás construido y programado un robot móvil. Este robot lo podrás programar y controlar en y desde la distancia. Lo único que tienes que hacer es entrar a la plataforma Coursera desde cualquier navegador y buscar el curso “robótica”. ¡Mucha suerte!
+				Fabricar un robot con material de recuperación y/o de reciclaje. Podrás fabricar un carro, un molino de viento, una rueda de la fortuna, una montaña rusa, una casa de fantasmas, una cucaracha robótica, una muñeca bailadora, unos volantines, un alebrije robótico, etcétera (Robótica Pedagógica Móvil, s. d.).
+				Jugando al robot. Con tus hermanitos o tus papás puedes jugar a ser un robot. Esto es, podrás darle instrucciones para que se desplace de un lugar a otro. Se necesita que una persona quiera asumir el papel de robot. Una vez que ya se decidió quién será el robot, el juego se puede iniciar. Las reglas de movimiento del robot son: sólo puede moverse un paso hacia adelante y girar, ya sea hacia la derecha (900) o hacia la izquierda (900). Sólo una persona puede darle órdenes al robot. Los demás pueden observar y calificar si las instrucciones fueron las adecuadas para que el robot hiciera los desplazamientos ordenados. Le puedes dar instrucciones al robot de desplazarse de la cocina a una de las recámaras, o del comedor al baño. Una vez realizado este juego, puedes intercambiar papeles. Ahora, algún otro miembro de la familia será el robot. ¡Denle instrucciones!
+				Escoge y lee un cuento. Ahora, trata de reducirlo al máximo, rescribiéndolo con tus propias palabras. Encuentra las acciones (verbos en infinitivo) y dales un orden (secuencial) para que quede en forma de programa informático (instrucción seguida de otra instrucción). Escríbelo y compártelo con familiares y amigos.
+				Escribe un programa informático que permita que un robot llegue del punto A al punto Z. El robot sólo puede caminar un paso a la vez y girar 900, ya sea a la derecha o a la izquierda.
+				Escribe un programa describiendo la siguiente ruta:
+				Escribe un texto que le permita al robot desplazar una mercancía del punto A al punto Z.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				El robot prisionero. Un robot está prisionero en una cárcel. En estos momentos los guardias están durmiendo. Tú puedes darle las instrucciones para que, si las sigue correctamente, pueda salir de la cárcel.
+				Inventa un robot. Dibújalo y describe cuáles son sus principales funciones.
+				Dibuja un laberinto para que lo recorra el robot y escribe las instrucciones para lograrlo. Recuerda, las reglas son: sólo puede caminar hacia adelante o hacia atrás un paso, y girar 90o, ya sea hacia la izquierda o derecha.
+				Utiliza la aplicación ROMPI para programar tu robot, la cual está disponible de manera gratuita para teléfonos celulares, tanto en sistema operativo iOS como Android. Lee cuidadosamente las instrucciones que se despliegan en la pantalla del teléfono después de descargar la aplicación.
+			
+Referencias
+			Robótica Pedagógica Móvil (s. d.), “Situación didáctica constructivista-construccionista-conectivista ‘El robot controlado y programado vía teléfono celular’”, <http://roboticapedagogicamovil.blogspot.com/>, consultado el 10 de mayo, 2020 (entrada de blog).
+			Ruiz Velasco, E. (2014), “Aprendizaje móvil de lenguajes informáticos en educación primaria”, <https://recursos.portaleducoas.org/sites/default/files/VE14.245.pdf>, consultado el 28 de abril, 2020 (artículo en línea).
+			Ruiz Velasco, E., J. M. Sánchez, J. Franco, J. C. Ponce, R. Mújica, D. Mocencahua, E. Velarde y E. Piña (2014), “Récord Guinness de robots pedagógicos móviles (robótica pedagógica móvil)”, Virtual educa 2014, <https://virtualeduca.red/documentos/23/Enrique%20Ruiz%20Velasco%20S%C3%A1nchez%20-%20R%C3%A9cord%20Guinness%20de%20Rob%C3%B3tica%20Pedag%C3%B3gica%20M%C3%B3vil.pdf>, consultado el 29 de abril, 2020.
+			Wing, J. M. (2006), “Computational thinking”, Communications of the acm, vol. 49, núm. 3, pp. 33-35, <https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf>, consultado el 29 de abril, 2020.
