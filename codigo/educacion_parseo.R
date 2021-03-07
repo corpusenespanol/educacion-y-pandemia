@@ -49,4 +49,4 @@ dir.create("corpus")
 
 ruta_archivos <- glue::glue("corpus/{titulos}.txt")
 
-walk2(art3, ruta_archivos, readr::write_file)
+walk2(art_map, ruta_archivos, readr::write_file)
