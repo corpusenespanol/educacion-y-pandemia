@@ -8,4 +8,5 @@ IISUE (2020), Educación y pandemia. Una visión académica, México, UNAM, <
 El cual fue liberado generosamente bajo una licencia [Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.es) por lo cual éste corpus es liberado bajo la misma licencia.
 
 Para citar este material, por favor use el siguiente DOI:
-[![DOI](https://zenodo.org/badge/344972221.svg)](https://zenodo.org/badge/latestdoi/344972221)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4586947.svg)](https://doi.org/10.5281/zenodo.4586947)
